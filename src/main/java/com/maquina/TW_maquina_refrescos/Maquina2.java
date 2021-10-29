@@ -86,8 +86,6 @@ public class Maquina2 {
 		m.vender(5, 1);
 		m.vender(5, 2);
 		m.mostrarEstado(refrescos);
-		m.mostrarEstado(refrescos);
-		m.mostrarEstado(refrescos);
 		m.vender(-1, 2);
 		m.vender(2, 1);
 		m.generarInforme(refrescos);
